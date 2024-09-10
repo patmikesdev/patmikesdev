@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @patmikesdev, but you can call me Pat. 
-- 👀 I’m interested in Web Development, JavaScript development
-- 🌱 I’m looking to branch out in Python, Machine Learning, and Software Engineering
+- 👀 I’m interested in Web Development, particularly JavaScript development for the moment. My primary stack right now is the MERN stack (MongoDB, Express, React, and Node)
+- 🦶 My next steps are learning Next.js and Typescript
+- 🌱 In the longer term, I’m looking to branch out into Python, Machine Learning, and Software Engineering
 - 📫 You can reach me at patmikesdev@gmail.com
 - 😄 Pronouns: He/Him
 
